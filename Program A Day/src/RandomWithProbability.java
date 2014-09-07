@@ -78,6 +78,7 @@ public class RandomWithProbability {
 		System.out.println("Default Case: "+casecounter[4]);
 		System.out.println("Exiting:");
 		System.out.println("Testing Git");
+		System.out.println("Test2 for git to check the fast-forward push");
 	}
 	public int getActionToBePerformed(float a,float b,float c,float d)
 	{
